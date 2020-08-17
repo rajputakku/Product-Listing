@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.main_header {
+  background: black !important;
+  color: white !important;
+  padding: 1em !important;
+  text-align: left !important;
+}
+
+.footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(235, 195, 64);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.button {
+  margin-top: 20px !important;
+}
